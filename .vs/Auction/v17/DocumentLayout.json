@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\kmerc\\OneDrive\\Documents\\Development\\Auction\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kmerc\\OneDrive\\Documents\\Development\\Auction\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kmerc\\OneDrive\\Documents\\Development\\Auction\\Auction\\Models\\Bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Auction\\Models\\Bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{858E0752-798C-4ACA-B032-64C152991B1E}|Auction\\Auction.csproj|c:\\users\\kmerc\\onedrive\\documents\\development\\auction\\auction\\models\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{858E0752-798C-4ACA-B032-64C152991B1E}|Auction\\Auction.csproj|solutionrelative:auction\\models\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,12 +35,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\kmerc\\OneDrive\\Documents\\Development\\Auction\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\kmerc\\OneDrive\\Documents\\Development\\Auction\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-19T13:22:38.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bid.cs",
+              "DocumentMoniker": "C:\\Users\\kmerc\\OneDrive\\Documents\\Development\\Auction\\Auction\\Models\\Bid.cs",
+              "RelativeDocumentMoniker": "Auction\\Models\\Bid.cs",
+              "ToolTip": "C:\\Users\\kmerc\\OneDrive\\Documents\\Development\\Auction\\Auction\\Models\\Bid.cs",
+              "RelativeToolTip": "Auction\\Models\\Bid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:50:25.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Listing.cs",
               "DocumentMoniker": "C:\\Users\\kmerc\\OneDrive\\Documents\\Development\\Auction\\Auction\\Models\\Listing.cs",
               "RelativeDocumentMoniker": "Auction\\Models\\Listing.cs",
               "ToolTip": "C:\\Users\\kmerc\\OneDrive\\Documents\\Development\\Auction\\Auction\\Models\\Listing.cs",
               "RelativeToolTip": "Auction\\Models\\Listing.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBgAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAABAwBgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T11:56:56.419Z",
               "EditorCaption": ""
